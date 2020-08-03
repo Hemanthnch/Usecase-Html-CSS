@@ -1,0 +1,104 @@
+.products{
+    display: inline;
+    color: blue;
+    text-align: center;
+}
+img{
+    
+    float: left;
+    margin: 20px;
+}
+.login{
+    display: inline-block;
+    text-align: left;
+    background-color: lightgrey;
+    width: 400px;
+    border: 15px solid blueviolet;
+    padding: 20px;
+    margin: 20px;
+}
+.signup{
+    text-align: center;
+    display: inline-block;
+    text-align: left;
+    background-color: lightgrey;
+    width: 600px;
+    border: 10px solid blueviolet;
+    padding: 10px;
+    margin: 20px;
+}
+
+nav{
+    padding: 25px;
+    background-color: coral;
+}
+form{
+    text-align: center;
+}
+
+.success{
+    padding:10px;
+    background-color: darkgreen;
+
+}
+.home {
+    padding: 20px;
+    word-spacing: 30px;
+    overflow: hidden;
+    background-color: #e9e9e9;
+  }
+
+  .one{
+      align-items: left;
+  }
+  .con {
+    position: relative;
+    font-family: Arial;
+  }
+  
+  .text-block {
+    position: absolute;
+    float: left;
+    bottom: -450px;
+    left: 10px;
+    background-color: darkblue;
+    color: white;
+    padding-left: 1px;
+    padding-right: 10px;
+  }
+  .text-block1 {
+    position: absolute;
+    float: left;
+    bottom: -450px;
+    left: 320px;
+    background-color: darkblue;
+    color: white;
+    padding-left: 1px;
+    padding-right: 10px;
+  }
+  .text-block2 {
+    position: absolute;
+    float: left;
+    bottom: -450px;
+    left: 630px;
+    background-color: darkblue;
+    color: white;
+    padding-left: 1px;
+    padding-right: 10px;
+  }
+  .text-block3 {
+    position: absolute;
+    float: left;
+    bottom: -450px;
+    left: 950px;
+    background-color: darkblue;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  footer{
+      /* position: fixed; */
+    padding:15px;
+    background-color: coral;
+  text-align: left;  
+}
